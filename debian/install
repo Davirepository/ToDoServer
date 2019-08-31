@@ -1,0 +1,3 @@
+.build/							usr/src/ToDoList
+terraform/scripts/install.sh	usr/src/ToDoList
+terraform/scripts/start.sh		usr/src/ToDoList
