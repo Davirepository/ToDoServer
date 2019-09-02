@@ -1,4 +1,4 @@
 module agentcore {
-    umbrella "/Users/david/Desktop/Свифт 4 курс/KituraServer/ToDoList/.build/checkouts/omr-agentcore/src/agentcore/include"
+    umbrella "/Users/david/Desktop/Свифт_4_курс/KituraServer/ToDoList/.build/checkouts/omr-agentcore/src/agentcore/include"
     export *
 }

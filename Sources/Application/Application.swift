@@ -42,7 +42,7 @@ public class App {
         } catch let error {
             print(#line, #function, "WARNING: Table alredy exists \(error.localizedDescription)")
         }
-        
+         
         
         // Endpoints
         initializeHealthRoutes(app: self)
